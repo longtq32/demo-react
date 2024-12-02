@@ -22,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Hello world
+          Hello world React with TypyScript
         </p>
       </div>
       <p className="read-the-docs">
