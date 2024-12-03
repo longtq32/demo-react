@@ -22,7 +22,13 @@ const todos = [
 
 const TodoList = () => {
     return (
-        <div>
+        <div style={{
+            width: "600px",
+            margin: "50px auto",
+            border: "1px solid #ccc",
+            borderRadius: 10,
+            padding: 10,
+        }}>
             <div>My todo list:</div>
         <br />
         <TodoData 
